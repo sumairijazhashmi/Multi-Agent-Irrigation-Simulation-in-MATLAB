@@ -1,4 +1,4 @@
-**Project -- Multi-Agent-Irrigation-Simulation-in-MATLAB*
+**Project -- Multi-Agent-Irrigation-Simulation-in-MATLAB**
 
 **By Sumair Ijaz Hashmi, Muawiz Khan Feroze, Muhammad Haris Saad**
 
