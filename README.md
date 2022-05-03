@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/85024854/166477912-592e9cbd-cb9d-42d0-
 On every 7<sup>th</sup> day, each farmer's moisture level is compared. The farmer
 with the lowest moisture level, which is also below a certain acceptable
 moisture level *m_acceptable* was given water. It is not necessary to
-irrigate every 7<sup>th</sup day if none of the farmers meet these requirements.
+irrigate every 7<sup>th</sup> day if none of the farmers meet these requirements.
 This system works fine until the irrigation runs out.
 
 
